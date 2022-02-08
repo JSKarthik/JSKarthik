@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jskarthik&show_icons=true&locale=en&layout=compact" alt="jskarthik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jskarthik&show_icons=true&locale=en" alt="jskarthik" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JSKarthik&theme=tokyonight)
