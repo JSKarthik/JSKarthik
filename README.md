@@ -16,5 +16,9 @@
 
 ![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSKarthik&show_icons=true&theme=vue-dark)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JSKarthik&layout=compact&theme=vue-dark" alt="JSKarthik" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSKarthik&layout=compact&theme=vue-dark)](https://github.com/JSKarthik/github-readme-stats)
+
+
 
