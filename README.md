@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jskarthik&label=Profile%20views&color=0e75b6&style=flat" alt="jskarthik" /> </p>
 
+- 🔭 I’m currently working on **Web Development**
+
+- 🌱 I’m currently learning **MERN Stack Development**
+
 - 📫 How to reach me **jskarthik5@gmail.com**
 
 - ⚡ Fun fact **Iam not funny**
