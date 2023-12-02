@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthikeyan J</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jskarthik&label=Profile%20views&color=0e75b6&style=flat" alt="jskarthik" /> </p>
 
