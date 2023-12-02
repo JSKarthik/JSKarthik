@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karthikjshetty" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="karthikjshetty" height="30" width="40" /></a>
-<a href="https://instagram.com/j.s.karthik" target="blank"><img align="center" src="https://img.icons8.com/clouds/100/instagram-new--v3.png" alt="j.s.karthik" height="30" width="40" /></a>
+<a href="https://instagram.com/j.s.karthik" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="j.s.karthik" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jskarthik_5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jskarthik_5" height="30" width="40" /></a>
 </p>
 
