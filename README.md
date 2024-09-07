@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthikeyan J</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/4qDCUDKQhABWRaPV8">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/4qDCUDKQhABWRaPV8(https://www.google.com/url?sa=i&url=https%3A%2F%2Fphoneky.com%2Fgif-animations%2F%3Fid%3Ds2s19657&psig=AOvVaw0zxqezDPscxBXpMH2RUgui&ust=1725809004364000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLDro-uRsYgDFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jskarthik&label=Profile%20views&color=0e75b6&style=flat" alt="jskarthik" /> </p>
 
